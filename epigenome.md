@@ -1,6 +1,6 @@
 ---
-title: Contact
-permalink: /contact/
+title: Epigenome
+permalink: /epigenome/
 --- 
 
 # Contact the Long Gene Lab<br>
