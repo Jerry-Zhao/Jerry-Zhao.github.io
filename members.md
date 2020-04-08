@@ -6,7 +6,7 @@ permalink: /members/
 
 <h3>Principal Investigator</h3>
 
-<img width="300" src="/img/Jerry01_400.png" data-action="zoom">
+<img width="300" src="/img/Hs6st3.png" data-action="zoom">
  <br>
 Yingtao "Jerry" Zhao<br>
 Assistant Professor<br>
