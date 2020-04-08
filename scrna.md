@@ -1,6 +1,6 @@
 ---
-title: Openings
-permalink: /openings/
+title: Single Cell Omics
+permalink: scrna/
 ---
 # Research Opportunities<br>
  <br>
