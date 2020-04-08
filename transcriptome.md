@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Transcriptome
+permalink: /transcriptome/
 ---
 
 Jerry Zhao's [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Sq8wrbQAAAAJ&view_op=list_works&sortby=pubdate) and [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1v35dpemirpQW/bibliography/public/).
