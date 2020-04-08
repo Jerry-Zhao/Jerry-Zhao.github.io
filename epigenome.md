@@ -3,24 +3,19 @@ title: Epigenome
 permalink: /epigenome/
 --- 
 
-# Contact the Long Gene Lab<br>
- <br>
- 
-**Jerry Zhao**<br>
-Assistant Professor<br>
-Department of Biomedical Sciences<br>
-New York Institute of Technology<br>
-College of Osteopathic Medicine<br>
-<br>
-Riland building, room 024<br>
-Northern Boulevard, P.O. Box 8000<br>
-Old Westbury, NY 11568<br>
- <br>
-E-mail: yzhao47@nyit.edu<br>
-Tel: 516 686 3764<br>
+This page will demonstrate the epigenomic profile of the queried gene in 14 mouse tissues. <br>
+These epigenomic marks include H3K27ac, H3K4me1, and H3K4me3. <br>
+Bellow is a plot for an example gene. <br>
  <br>
 
-<img width="800" src="/img/LongGene_Lab_googlemap_2.png" data-action="zoom">
+<img width="800" src="/img/Histone.png" data-action="zoom">
+ <br>
+ 
+ <br>
+
+The epigenomic profiles were generated from the raw FASTQ files from the ENCODE project. <br>
+Pipeline... <br>
+ <br>
 
 
 
