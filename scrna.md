@@ -12,7 +12,7 @@ Bellow are a tSNE plot and a violin plot for an example gene. <br>
 <img width="800" src="/img/Violin.png" data-action="zoom"> <br>
  <br>
 
-The transcriptome profiles were generated from the raw FASTQ files from the ENCODE project. <br>
+The single cell transcriptome were generated from the raw FASTQ files from one of our projects. <br>
 Pipeline... <br>
  <br>
 
