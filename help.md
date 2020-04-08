@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab News
-permalink: /news/
+title: Help
+permalink: /help/
 --- 
 
 # News @ the Long Gene Lab<br>
