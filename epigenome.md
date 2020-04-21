@@ -7,6 +7,7 @@ permalink: /epigenome/
 H3K4me3, tri-methylation at the 4th lysine residue of the histone H3 protein. <br>
 H3K27ac, acetylation at the 27th lysine residue of the histone H3 protein. <br>
 H3K4me1, mono-methylation at the 4th lysine residue of the histone H3 protein. <br>
+RPM, reads per million uniquely mapped reads. <br>
  <br>
 
 <img width="800" src="/img/ENSMUSG00000037541_Shank2_H3K4me3.png" data-action="zoom"> <br>
