@@ -2,20 +2,21 @@
 title: Epigenome
 permalink: /epigenome/
 --- 
-
-This page will demonstrate the epigenomic profile of the queried gene in 14 mouse tissues. <br>
-These epigenomic marks include H3K27ac, H3K4me1, and H3K4me3. <br>
-Bellow is an example plot. <br>
+# Profiles of histone modification at Shank2 gene region. <br>
+ <br>
+H3K4me3, tri-methylation at the 4th lysine residue of the histone H3 protein. <br>
+H3K27ac, acetylation at the 27th lysine residue of the histone H3 protein. <br>
+H3K4me1, mono-methylation at the 4th lysine residue of the histone H3 protein. <br>
  <br>
 
-<img width="800" src="/img/Histone.png" data-action="zoom">
- <br>
- 
+<img width="800" src="/img/ENSMUSG00000037541_Shank2_H3K4me3.png" data-action="zoom"> <br>
+The image name is "ID_name_H3K4me3.png". <br>
+<img width="800" src="/img/ENSMUSG00000037541_Shank2_H3K27ac.png" data-action="zoom"> <br>
+The image name is "ID_name_H3K27ac.png". <br>
+<img width="800" src="/img/ENSMUSG00000037541_Shank2_H3K4me1.png" data-action="zoom"> <br>
+The image name is "ID_name_H3K4me1.png". <br>
  <br>
 
-The epigenomic profiles were generated from the raw FASTQ files from the ENCODE project. <br>
-Pipeline... <br>
- <br>
 
 
 
