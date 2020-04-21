@@ -1,6 +1,6 @@
 ---
-title: Conservation
-permalink: /conservation/
+title: Chromatin Organization
+permalink: /HiC/
 ---
 
 
