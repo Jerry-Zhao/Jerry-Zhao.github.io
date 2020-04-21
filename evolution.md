@@ -16,12 +16,13 @@ The gene lengths of Shank2 and its orthologs in human (Homo sapiens), mouse (Mus
  <br>
  <br>
 
-# The convervation of gene region of Shank2.<br> 
+# The conservation of gene region of Shank2.<br> 
 The phylogenetic p-values (phyloP) were calculated by the PHAST package for multiple alignments of 59 vertebrate genomes to the mouse genome, and the phyloP scores were obtained from the UCSC Genome Browser (http://hgdownload.cse.ucsc.edu/goldenpath/mm10/phyloP60way/). <br>
  <br>
 
 <img width="800" src="/img/ENSMUSG00000037541_Shank2_conservation_plot.png" data-action="zoom"> <br>
- Image name is "ID_name_conservation_plot.png"
+TSS, transcription start site. TES, transcription end site. <br>
+ Image name is "ID_name_conservation_plot.png" <br>
  <br>
  <br>
  <br>
