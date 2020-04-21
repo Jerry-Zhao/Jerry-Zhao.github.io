@@ -24,9 +24,9 @@ description: Long Gene Lab @ NYIT
 # List of links in the navigation bar
 navbar-links:
   Evolution: "evolution"
-  Conservation: "conservation"
   Transcriptome: "transcriptome"
   Epigenome: "epigenome"
+  #Chromatin Organization: "HiC"
   Single Cell Omics: "scrna"
   Help: "help"
   Contact us: "contact"
