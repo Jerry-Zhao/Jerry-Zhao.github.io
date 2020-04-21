@@ -3,23 +3,29 @@ layout: page
 title: Evolution 
 ---
 
-This page shows Shank2's evolution history of gene length and its sequence conservation. 
+This page shows Shank2's evolution history of gene length and its sequence conservation.<br>
+<br>
 
+# The evolution og Shank2's gene length. <br>
 The gene lengths of Shank2 and its orthologs in human (Homo sapiens), mouse (Mus musculus), pig (Sus scrofa), chicken (Gallus gallus), frog (Xenopus tropicalis), fruitfly (Drosophila melanogaster), and worm (Caenorhabditis elegans). <br>
  <br>
  <img width="800" src="/img/ENSMUSG00000037541_Shank2_Length.png" data-action="zoom"> <br>
  Image name is "ID_name_Length.png"
  <br>
- 
+ <br>
+ <br>
+ <br>
 
-The convervation of Shank2 gene region.<br> 
+# The convervation of Shank2 gene region.<br> 
 The phylogenetic p-values (phyloP) were calculated by the PHAST package for multiple alignments of 59 vertebrate genomes to the mouse genome, and the phyloP scores were obtained from the UCSC Genome Browser (http://hgdownload.cse.ucsc.edu/goldenpath/mm10/phyloP60way/). <br>
  <br>
 
 <img width="800" src="/img/ENSMUSG00000037541_Shank2_conservation_plot.png" data-action="zoom"> <br>
  Image name is "ID_name_conservation_plot.png"
  <br>
-
+ <br>
+ <br>
+ <br>
 
 The glire subset includes mm10, cavPor3, dipOrd1, hetGla2, ochPri2, oryCun2, rn5, and speTri2. <br>
 The euarchontoglire subset includes the glire subset, tupBel1, calJac3, gorGor3, hg19, micMur1, nomLeu2, otoGar3, panTro4, papHam1, ponAbe2, rheMac3, saiBol1, and tarSyr1.<br> 
