@@ -5,6 +5,9 @@ permalink: scrna/
 
 # The expression profile of Shank2 in 24 cell types in the mouse cortex. <br>
 Gene expression levels were examined by single nuclear RNA-seq. <br>
+Slc17a7 is a marker gene for excitatory neurons. <br>
+Gad1 is a marker gene for inhibotatory neurons. <br>
+Slc1a3 is a marker gene for glial cells. <br>
  <br>
 
 <img width="800" src="/img/ENSMUSG00000037541_Shank2_scRNA_ViolinPlot.png" data-action="zoom"> <br>
