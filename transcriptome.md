@@ -4,17 +4,14 @@ title: Transcriptome
 permalink: /transcriptome/
 ---
 
-This page will demonstrate the expression profile of the queried gene in 23 mouse tissues in a boxplot. <br>
-Bellow is a boxplot for an example gene. <br>
+# The gene expression levels of Shank2 in 22 mouse tissues. <br>
  <br>
 
-<img width="800" src="/img/Hs6st3.png" data-action="zoom">
+<img width="800" src="/img/ENSMUSG00000037541_Shank2_expression_boxplot.png" data-action="zoom"> <br>
+ FPKM,  fragments per kilobase of exonic region per million uniquely mapped read pairs. <br>
+ Image name is "ID_name_expression_boxplot.png". <br>
  <br>
- 
  <br>
 
-The transcriptome profiles were generated from the raw FASTQ files from the ENCODE project. <br>
-Pipeline... <br>
- <br>
 
 
