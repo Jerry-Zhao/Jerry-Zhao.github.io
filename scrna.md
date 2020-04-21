@@ -3,17 +3,41 @@ title: Single Cell Omics
 permalink: scrna/
 ---
 
-This page will demonstrate the expression profile of the queried gene in 28 cell types in adult mouse cortex. <br>
-Bellow are a tSNE plot and a violin plot for an example gene. <br>
+# The expression profile of Shank2 in 24 cell types in the mouse cortex. <br>
+Gene expression levels were examined by single nuclear RNA-seq. <br>
  <br>
 
-<img width="800" src="/img/tSNE.png" data-action="zoom"> <br>
+<img width="800" src="/img/ENSMUSG00000037541_Shank2_scRNA_ViolinPlot.png" data-action="zoom"> <br>
+The image name is "ID_name_scRNA_ViolinPlot.png". <br>
  <br>
-<img width="800" src="/img/Violin.png" data-action="zoom"> <br>
+ <br>
  <br>
 
-The single cell transcriptome were generated from the raw FASTQ files from one of our projects. <br>
-Pipeline... <br>
+The annotation of the 24 cell types are 
+Lay 2/3 excitatory neurons (cluster 0), "exL2/3",
+"exL4_1", 
+"exL5a/b",
+"STR", 
+"exL2",
+"exL6a",
+"Gad2+ ?",
+"Pv+",
+"exL5b_1",
+"exL5b_2",
+"SST+",
+"Oligo",
+"exL4_2",
+"exL6b",
+"VIP+",
+"Unkonwn ?",
+"Isocortex",
+"Hip",
+"ex ?",
+"NPY+",
+"Thalamus",
+"Claustrum",
+"Astro",
+"OPC"
  <br>
 
 
