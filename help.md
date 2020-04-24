@@ -19,11 +19,23 @@ permalink: /help/
         ***systemctl enable apache2*** <br>
   Step 5: Verify Apache by visiting the server’shostname; you’ll see Apache’s default page. <br>
          ***https://localhost*** <br>
+  Step 6: permissions to the /var/www/html folder <br>
+        ***sudo gpasswd -a usnername www-data*** <br>
+        ***sudo chown -R www-data:www-data /var/www/html*** <br>
+        ***sudo chmod -R g+rwx /var/www/html*** <br>
   <br>
   <br>
 **b. Install and Enable PHP**  <br>
-     ***apt install php libapache2-mod-php php-mysql***
-     ***php --version***
+  Step 1: install PHP <br>
+     ***apt install php libapache2-mod-php php-mysql*** <br>
+     ***php --version*** <br>
+   Step 2: check that PHP is installed correctly <br>
+     ***sudo vi /var/www/html/phpinfo.php***  <br>
+     add ***<?php phpinfo(); ?>*** <br>
+    change the permissions and ownership of the file <br>
+    ***sudo chown www-data:www-data /var/www/html/phpinfo.php*** <br>
+    ***sudo chmod +x /var/www/html/phpinfo.php*** <br>
+    Open a web browser, enter ***http://localhost/phpinfo.php*** <br>
   <br>
   <br>
 **c. Install MySQL**  <br>
