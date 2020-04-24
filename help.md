@@ -31,7 +31,7 @@ permalink: /help/
      ***php --version*** <br>
    Step 2: check that PHP is installed correctly <br>
      ***sudo vi /var/www/html/phpinfo.php***  <br>
-     add ***<?php phpinfo(); ?>*** <br>
+     add ***\<?php phpinfo(); ?\>*** <br>
     change the permissions and ownership of the file <br>
     ***sudo chown www-data:www-data /var/www/html/phpinfo.php*** <br>
     ***sudo chmod +x /var/www/html/phpinfo.php*** <br>
@@ -40,17 +40,17 @@ permalink: /help/
   <br>
 **c. Install MySQL**  <br>
    Step 1: Installing MySQL <br>
-      ***sudo apt update    *** <br>
-      ***sudo apt install mysql-server   .*** <br>
+      ***sudo apt update*** <br>
+      ***sudo apt install mysql-server*** <br>
    Step 2: Configuring MySQL <br>
-      ***sudo mysql_secure_installation  .*** <br>
+      ***sudo mysql_secure_installation*** <br>
    Step 3: Adjusting User Authentication and Privileges <br>
       ***sudo mysql*** <br>
       ***SELECT user,authentication_string,plugin,host FROM mysql.user;*** <br>
       ***ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';*** <br>
       ***FLUSH PRIVILEGES; ***<br>
-      ***SELECT user,authentication_string,plugin,host FROM mysql.user; ***<br>
-      ***exit   .***<br>
+      ***SELECT user,authentication_string,plugin,host FROM mysql.user;***<br>
+      ***exit***<br>
     <br>
     connect to MySQL with a dedicated user <br>
       ***mysql -u root -p*** <br>
@@ -62,9 +62,18 @@ permalink: /help/
     ***sudo mysqladmin -p -u root version*** <br>
   <br>
   <br>
-  **4.**  <br>
+**d. install MySQL Workbench**  <br>
+    ***sudo apt install mysql-workbench***<br>
   <br>
-  **5.**  <br>
+  <br>
+**e. Install PHPMyAdmin**  <br>
+  ***sudo apt install phpmyadmin***<br>
+   <br>
+  ***sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf***<br>
+  ***sudo a2enconf phpmyadmin.conf***<br>
+***sudo systemctl reload apache2.service***<br>
+Test ***http://localhost/phpmyadmin***<br>
+  <br>
   <br>
   **6.**  <br>
   <br>
