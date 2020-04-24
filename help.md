@@ -48,7 +48,7 @@ permalink: /help/
       ***sudo mysql*** <br>
       ***SELECT user,authentication_string,plugin,host FROM mysql.user;*** <br>
       ***ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';*** <br>
-      ***FLUSH PRIVILEGES; ***<br>
+      ***FLUSH PRIVILEGES;***<br>
       ***SELECT user,authentication_string,plugin,host FROM mysql.user;***<br>
       ***exit***<br>
     <br>
